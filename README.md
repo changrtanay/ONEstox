@@ -1,7 +1,9 @@
-﻿# one-stox
+﻿# ONEstox
 
 ## Overview
 ONEstox is a comprehensive software solution designed for managing products, purchases, sales, and databases within an inventory system. This application uses a MySQL database and provides an interactive interface using Python's `tkinter` for managing product details, placing orders, tracking sales, and performing database setup.
+
+   ![Picture1](https://github.com/user-attachments/assets/b3f1a7a9-3d78-45c3-9bf9-ec82fecf293e)
 
 ## Features
 
