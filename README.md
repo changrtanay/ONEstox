@@ -6,7 +6,7 @@ ONEstox is a comprehensive software solution designed for managing products, pur
 ## Screenshot
 
 Here is a screenshot from the demo:
-![Screenshot](https://github.com/user-attachments/assets/b3f1a7a9-3d78-45c3-9bf9-ec82fecf293e)
+![Screenshot](screenshot.png)
 
 ## Features
 
@@ -129,5 +129,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 - The system uses MySQL for database management.
 - `tkinter` was used for creating the graphical user interface.
+
 
 
